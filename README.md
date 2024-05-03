@@ -5,6 +5,7 @@
 - 📫 i can be reached by carrier pigeon
 - 😄 i am such a silly boy
 - ⚡ fun fact i'm a gamer!!!!!!!!!!!!!
+- 🐟 it is a fine dish to be a fish
 
 <!---
 keymp4/keymp4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
